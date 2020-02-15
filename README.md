@@ -23,6 +23,6 @@ Add it in your root build.gradle at the end of repositories:
 	}
 	
 
-## 效果图：##
+## 效果图： ##
 
 ![](https://github.com/nangongyibin/Android_HandWrite/blob/master/1.gif?raw=true)
